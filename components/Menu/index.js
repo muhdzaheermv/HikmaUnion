@@ -30,7 +30,7 @@ const Menu = ({setShowMenu}) => {
       <nav className={styles.menu}>
         <div className={styles.aside}>
           <span className={`${styles.bottomleftmar}`}>
-            NATIONAL INSTITUTE OF TECHNOLOGY CALICUT, NITC
+            ASPIRE COLLEGE OF ADVANCED STUDIES
           </span>
         </div>
         <ul className={`${styles.nopad}`}>

@@ -23,7 +23,7 @@ export default function HindiText(){
             clearInterval(to)
             let text = document.querySelectorAll('#hindi-text-switch')[0]
             text.style.transform = 'scale(1)'
-            text.innerHTML='रागम की ज्वाला'
+            text.innerHTML='हिक्मा यूनियन'
         })
     },[])
 
@@ -32,7 +32,7 @@ export default function HindiText(){
         <div className={`${styles['flame-of-ragam'] } misc-anim`} id="flame-of-ragam">
             <p className={styles['hindi-text']} id='hindi-text-switch'>
                 {/* Fix uncentered hindi text */}
-                रागम की ज्वाला
+                हिक्मा यूनियन
             </p>
         </div>
     )

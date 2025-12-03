@@ -8,11 +8,12 @@ export default function Rajan(){
                 <div className={styles.title}>
                     <h1>
                         The&nbsp;
-                        <span className={styles.burn}>f</span>
-                        <span className={styles.fire}>l</span>
-                        <span className={styles.burn}>a</span>
-                        <span className={styles.fire}>m</span>
-                        <span className={styles.burn}>e</span>
+                        <span className={styles.burn}>A</span>
+                        <span className={styles.fire}>S</span>
+                        <span className={styles.burn}>P</span>
+                        <span className={styles.fire}>I</span>
+                        <span className={styles.burn}>R</span>
+                        <span className={styles.burn}>E</span>
                     &nbsp; still <span className={styles.text2}>burns</span>
                     </h1>
                     <a href="https://youtu.be/1GmHRscNl6I?t=114" target="_blank" className={styles.link} rel="noreferrer noopener">
@@ -26,7 +27,7 @@ export default function Rajan(){
                 </div>
                 <div className={`${styles['img-container']} img-container`}>
                     <Image
-                        src={'/images/Rajan.png'}
+                        src={'/images/'}
                         width={950}
                         height={700}
                         className={styles.img}

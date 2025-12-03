@@ -114,11 +114,11 @@ export default function Hero({prompt}) {
             <div className={`${styles["hero-upper"]} hero-upper` } id='hero-upper' 
             style={ {filter: 'url(#threshold)'} }
             >
-                <span className={`${styles["hero-t"]} ${styles["text-zero-opacity"]} hero-t ${styles["hero-anim"]}`} id="text1">HIKMA</span>
                 <span className={`${styles["hero-t"]} ${styles["text-zero-opacity"]} hero-t ${styles["hero-anim"]}`} id="text2">ഹിക്മ</span>
                 <span className={`${styles["hero-t"]} ${styles["text-zero-opacity"]} hero-t ${styles["hero-anim"]}`} id="text3">हिक्मा</span>
                 <span className={`${styles["hero-t"]} ${styles["text-zero-opacity"]} hero-t ${styles["hero-anim"]}`} id="text4">حِكْمَة</span>
-                <span className={`${styles["hero-t"]} ${styles["text-zero-opacity"]} hero-t ${styles["hero-anim"]}`} id="text5">ஹிக்மா</span>
+                <span className={`${styles["hero-t"]} ${styles["text-zero-opacity"]} hero-t ${styles["hero-anim"]}`} id="text1">HIKMA</span>
+               
                 
 
             </div>

@@ -3,9 +3,8 @@ import styles from '@/styles/Misc.module.css'
 
 export default function LangBox(){
 
-    let letters = [['രാ','Ra'],['ഗം','gam'],['రా','Ra'],['గం','gam'],['ரா','Ra'],['கம்','gam']]
-
-    // 0 1 2 3
+    let letters = [['Hik','Hik'], ['ma','ma'],['ഹിക്','Hik'], ['മ','ma'],['हिक','Hik'], ['मा','ma'],  ['حكم','Hikm'], ['ة','a']             // Arabic (حكمة = Hikma)
+]  // 0 1 2 3
     const [lang,setLang] = useState(0)
 
     // For letter switching

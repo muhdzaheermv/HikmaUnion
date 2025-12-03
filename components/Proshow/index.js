@@ -4,20 +4,20 @@ import ProshowCard from './proshowCard'
 
 const artists = [
     {
-        name: 'Mohan Sisters',
-        date: '10 Mar.',
+        name: 'Onam',
+        date: 'Sep.',
         img: 'images/sisters.jpg',
         div_id: 'neetimohan'
     },
     {
-        name: 'Jubin Nautiyal',
-        date: '11 Mar.',
+        name: 'Foam Party',
+        date: 'Oct.',
         img: 'images/Jubin-Nautiyal-compressed.jpg',
         div_id: 'jubin'
     },
     {
-        name: 'Amit Trivedi',
-        date: '12 Mar.',
+        name: 'Freshers day',
+        date: 'Nov.',
         img: 'images/Amit-Trivedi-compressed.jpg',
         div_id: 'amittrivedi'
     }
@@ -28,7 +28,7 @@ function Proshow(){
         <div className={`${styles.container} proshow-section` }>
             <div className={styles.marquee}>
                 <ul className={styles['marquee-content']}>
-                    <li className={styles.stroke}>JUBIN NAUTIYAL</li>
+                    <li className={styles.stroke}>Aspire</li>
                     <li><Image 
                         src={'/images/assets/union.svg'}
                         width={100}
@@ -36,8 +36,8 @@ function Proshow(){
                         alt={'Proshow'}
                         />
                     </li>
-                    <li >AMIT TRIVEDI</li>
-                    <li >NEETI MOHAN</li>
+                    <li >Hikma</li>
+                    <li >Aspire</li>
                 </ul>
 
                 <ul className={`${styles['marquee-content']} marquee-proshow`} aria-hidden="true">

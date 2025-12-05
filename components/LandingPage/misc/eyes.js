@@ -77,7 +77,10 @@ export default function Eyes() {
       />
 
       <div className={styles['bg-text']}
-      style={{     
+      style={{
+        position: "absolute",
+        top: "50%",
+        left: "50%",
         transform: "translate(-50%, -50%)",
         zIndex: -1,          // <-- puts text behind image
         opacity: 0.2,        // optional (looks cleaner behind)

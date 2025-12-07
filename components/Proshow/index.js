@@ -28,7 +28,7 @@ function Proshow(){
         <div className={`${styles.container} proshow-section` }>
             <div className={styles.marquee}>
                 <ul className={styles['marquee-content']}>
-                    <li className={styles.stroke}>Aspire</li>
+                    <li className={styles.stroke}>Sargodhaya</li>
                     <li><Image 
                         src={'/images/assets/union.svg'}
                         width={100}
@@ -36,12 +36,12 @@ function Proshow(){
                         alt={'Proshow'}
                         />
                     </li>
-                    <li >ആസ്പയർ</li>
-                    <li >Aspire</li>
+                    <li ><b>സർഗോദയ</b></li>
+                    <li >Sargodhaya</li>
                 </ul>
 
                 <ul className={`${styles['marquee-content']} marquee-proshow`} aria-hidden="true">
-                    <li className={styles.stroke}>Aspire</li>
+                    <li className={styles.stroke}>Sargodhaya</li>
                     <li><Image 
                         src={'/images/assets/union.svg'}
                         width={100}
@@ -49,14 +49,14 @@ function Proshow(){
                         height={100}
                         />
                     </li>
-                    <li>ആസ്പയർ</li>
-                    <li>Aspire</li>
+                    <li>സർഗോദയ</li>
+                    <li>Sargodhaya</li>
                 </ul>
             </div>
             <div className={styles.marquee}>
                 <ul className={styles['marquee-content']}>
-                    <li>Hikma</li>
-                    <li className={styles.stroke}>Hikma</li>
+                    <li>Serdaala</li>
+                    <li className={styles.stroke}>Serdaala</li>
                     <li><Image 
                         src={'/images/assets/union2.svg'}
                         alt={'Proshow'}
@@ -64,7 +64,7 @@ function Proshow(){
                         height={100}
                         />
                     </li>
-                    <li className={styles.stroke}>ഹിക്മ</li>
+                    <li className={styles.stroke}><b>സെർദാല</b></li>
                     <li><Image 
                         src={'/images/assets/union.svg'}
                         width={100}
@@ -75,8 +75,8 @@ function Proshow(){
                 </ul>
 
                 <ul className={styles['marquee-content']} aria-hidden="true">
-                    <li>Hikma</li>
-                    <li className={styles.stroke}>hikma</li>
+                    <li>Serdaala</li>
+                    <li className={styles.stroke}>Serdaala</li>
                     <li><Image 
                         src={'/images/assets/union2.svg'}
                         alt={'Proshow'}
@@ -84,7 +84,7 @@ function Proshow(){
                         height={100}
                         />
                     </li>
-                    <li className={styles.stroke}>ഹിക്മ</li>
+                    <li className={styles.stroke}><b>സെർദാല</b></li>
                     <li><Image 
                         src={'/images/assets/union.svg'}
                         alt={'Proshow'}
@@ -97,8 +97,8 @@ function Proshow(){
 
             <div className={styles.marquee}>
                 <ul className={styles['marquee-content']}>
-                    <li >sarghodaya</li>
-                    <li className={styles.stroke}>sarghodaya</li>
+                    <li >First Years</li>
+                    <li className={styles.stroke}>First Years</li>
                     <li><Image 
                         src={'/images/assets/union.svg'}
                         width={100}
@@ -106,12 +106,12 @@ function Proshow(){
                         height={100}
                         />
                     </li>
-                    <li >സർഘോദയ</li>
+                    <li ><b>ഫസ്റ്റ് ഇയേഴ്സ്</b></li>
                 </ul>
 
                 <ul className={styles['marquee-content']} aria-hidden="true">
-                    <li>hikma</li>
-                    <li className={styles.stroke}>sarghodaya</li>
+                    <li>First Years</li>
+                    <li className={styles.stroke}>First Years</li>
                     <li><Image 
                         src={'/images/assets/union.svg'}
                         width={100}
@@ -119,7 +119,7 @@ function Proshow(){
                         height={100}
                         />
                     </li>
-                    <li >സർഘോദയ</li>
+                    <li ><b>ഫസ്റ്റ് ഇയേഴ്സ്</b></li>
                 </ul>
             </div>
             

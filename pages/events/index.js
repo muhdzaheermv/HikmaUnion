@@ -3,8 +3,31 @@ import Head from 'next/head'
 import ProshowPageCard from '@/components/Proshow/proshowPageCard'
 import styles from '@/styles/ProshowPage.module.css'
 
-
 const artists = [
+    {
+        name: 'Innovation for Impact: YIP 8.0 Awareness Program',
+        date: '21/11/2025',
+        day: 'Wednesday',
+        img: '/images/eventFive.jpeg',
+        id: "jubin",
+        content: 'The Department of Computer Application conducted the “Innovation for Impact: YIP 8.0 Awareness Program” to introduce students to the Young Innovators Programme. The session, led by YIP Co-ordinator Nayana P, aimed to inspire innovation, creativity, and problem-solving among learners.'
+    },
+    {
+        name: 'National Bird Observation Day',
+        date: '12/11/2025',
+        day: 'Wednesday',
+        img: '/images/eventThree.jpeg',
+        id: "jubin",
+        content: 'Aspire College observed National Bird Observation Day to inspire students to watch, identify, and protect bird species. The program highlighted the importance of biodiversity and environmental awareness, encouraging participants to appreciate and conserve nature.'
+    },
+    {
+        name: 'Keralappiravi – Malayalimanka Competition',
+        date: '01/11/2025',
+        day: 'Wednesday',
+        img: '/images/eventTwo.jpeg',
+        id: "jubin",
+        content: 'In celebration of Keralappiravi, Aspire College conducted the Malayalimanka Competition, organized by the Cultural Club and Second Language Department in association with IQAC. The event showcased Kerala’s heritage, traditional attire, and cultural artistry.'
+    },
     {
         name: 'Victory Day',
         date: '27/10/2025',
@@ -12,24 +35,9 @@ const artists = [
         img: '/images/eventOne.jpeg',
         id: "neetimohan",
         content: 'Aspire College Thrithala proudly presents the Hikma Union 2025–26 inauguration with a vibrant Victory Day celebration! Enjoy a powerful live band performance by St. Marys Kozhikode as their energetic rhythms light up the day, marking the start of an exciting new union journey filled with spirit, music, and celebration.'
-    },
-    // {
-    //     name: 'JUBIN NAUTIYAL',
-    //     date: '11/03/2023',
-    //     day: 'Saturday',
-    //     img: '/images/Jubin proshow.png',
-    //     id: "jubin",
-    //     content: 'It\'s time to put on your dancing shoes and get ready to groove to the beats of the sensational Jubin Nautiyal! Brace yourselves to be mesmerized by his soulful voice, as he takes the stage and sets the vibe for an unforgettable night of music and entertainment. So, mark your calendars and get ready to witness a night of musical bliss!'
-    // },
-    // {
-    //     name: 'AMIT TRIVEDI',
-    //     date: '12/03/2023',
-    //     day: 'Sunday',
-    //     img: '/images/Amit proshow.png',
-    //     id: "amittrivedi",
-    //     content: 'Get ready to witness an electrifying performance by the one and only, the renowned Bollywood singer and composer Amit Trivedi at Ragam\'23 - South India\'s  biggest cultural fest! Brace yourselves for an unforgettable evening as Amit Trivedi is all set to set the stage on fire with his scintillating voice and chart-topping hits. So mark your calendars and get ready to groove to his sensational tunes on the 12th of March, as we bring you the biggest musical extravaganza of the year!'
-    // }
-]
+    }
+];
+
 
 
 const eventsPage = () => {

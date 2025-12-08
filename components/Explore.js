@@ -24,38 +24,38 @@ export default function Explore() {
         {
             title: "Events",
             img: "/images/events.jpg",
-            link: "/events",
+            // link: "/events",
         },
-        {
-            title: "Workshops",
-            img: "/images/workshop.png",
-            link: "/workshops",
-        },
+        // {
+        //     title: "Workshops",
+        //     img: "/images/workshop.png",
+        //     link: "/workshops",
+        // },
         {
             title: "NSS",
             img: "/images/nss.jpg",
-            link: "/events?category=Ragnarok",
+            // link: "/events?category=Ragnarok",
             
         },
-        {
-            title: "I-ink",
-            img: "/images/iink.jpg",
-            link: "/ink",
-        },
+        // {
+        //     title: "I-ink",
+        //     img: "/images/iink.jpg",
+        //     link: "/ink",
+        // },
         {
             title: "Sports",
             img: "/images/sports.png",
-            link: "/events?category=Sports",
+            // link: "/events?category=Sports",
         },
         {
-            title: "Prodezza",
+            title: "Arts",
             img: "/images/prodezza.jpg",
-            link: "/prodezza",
+            // link: "/prodezza",
         },
         {
             title: "Proshow",
             img: "/images/proshow.jpg",
-            link: "/proshow",
+            // link: "/proshow",
         },
     ]
 

@@ -9,14 +9,14 @@ const Menu = ({setShowMenu}) => {
   const lists = [
     { title: "Home", link: "/" },
     // { title: "Schedule", link: "/schedule" },
-    { title: "Certificates", link: "https://certificates23.ragam.co.in" },
-    { title: "Workshops", link: "/workshops" },
-    { title: "Events", link: "/events" },
-    { title: "Proshows", link: "/proshow" },
+    { title: "Arts Registration", link: "" },
+    // { title: "Workshops", link: "/workshops" },
+    // { title: "Events", link: "/events" },
+    // { title: "Proshows", link: "/proshow" },
     // { title: "I-ink", link: "/ink" },
-    { title: "Prodezza", link: "/prodezza" },
-    { title: "Team", link: "/team" },
-    { title: "Sponsors", link: "/sponsors" },
+    // { title: "Prodezza", link: "/prodezza" },
+    { title: "Union Members", link: "/" },
+    // { title: "Sponsors", link: "/sponsors" },
 
     
     // { title: "Proshows2", link: "/" },

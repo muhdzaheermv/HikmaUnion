@@ -8,30 +8,30 @@ import Linkedin from "@/public/images/socials/Vector(3).svg";
 
 const Footer = () => {
   const socials = [
-    { logo: Instagram, link: "https://www.instagram.com/ragam_nitc/" },
-    { logo: Linkedin, link: "#" },
-    { logo: Facebook, link: "https://www.facebook.com/Ragam.nitc/" },
+    { logo: Instagram, link: "https://www.instagram.com" },
+    // { logo: Linkedin, link: "#" },
+    // { logo: Facebook, link: "https://www.facebook.com/Ragam.nitc/" },
   ];
 
   const email = "Muhammed zaheer mv";
 
   const links = [
     [
-      { name: "Home", link: "/" },
-      { name: "Team", link: "/team" },
-      { name: "Sponsors", link: "/sponsors" },
+      // { name: "Home", link: "/" },
+      // { name: "Team", link: "/team" },
+      // { name: "Sponsors", link: "/sponsors" },
     ],
     [
-      { name: "Certificates", link: "https://certificates23.ragam.co.in" },
-      { name: "Events", link: "/events" },
-      { name: "Workshops", link: "/workshops" },
-      { name: "Sports", link: "/events?category=Sports" },
+      // { name: "Certificates", link: "https://certificates23.ragam.co.in" },
+      // { name: "Events", link: "/events" },
+      // { name: "Workshops", link: "/workshops" },
+      // { name: "Sports", link: "/events?category=Sports" },
     ],
     [
-      { name: "Ragnarok", link: "/events?category=Ragnarok" },
-      { name: "Proshow", link: "/proshow" },
-      // { name: "I-ink", link: "/ink" },
-      { name: "Prodezza", link: "/prodezza" },
+      // { name: "Ragnarok", link: "/events?category=Ragnarok" },
+      // { name: "Proshow", link: "/proshow" },
+      // // { name: "I-ink", link: "/ink" },
+      // { name: "Prodezza", link: "/prodezza" },
     ],
   ];
   var i=0,j=0;

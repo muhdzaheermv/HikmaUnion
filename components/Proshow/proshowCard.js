@@ -29,7 +29,7 @@ export default function ProshowCard({ title, date, bg , id}) {
 
     <div className={`${styles["card-anim-container"]} proshow-anim`} >
     <div className={`${styles["card-container"]}`} id={id} onClick={() => buttonClicked(id)} >
-      <div className={`${styles["card-bg"]}`} id={id} style={{backgroundImage: `url(${bg})`}}/>
+      <div className={`${styles["card-bg"]}`} id={id} style={{backgroundImage: ``}}/>
       
       <Image
         src={"/images/assets/card arrow.svg"}

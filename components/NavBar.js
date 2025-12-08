@@ -52,7 +52,7 @@ export default function NavBar() {
                 Dashboard
             </ButtonSecondary>
                 ):
-                <ButtonPrimary onClick={()=>signIn()}>Sign In</ButtonPrimary>    
+                <ButtonPrimary onClick={()=>signIn()}>Hikma</ButtonPrimary>    
             }
                 </div>
 

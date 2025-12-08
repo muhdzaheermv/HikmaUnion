@@ -7,19 +7,19 @@ const artists = [
         name: 'Victory Day',
         date: 'Oct',
         img: 'images/First.jpeg',
-        div_id: 'neetimohan'
+        // div_id: 'neetimohan'
     },
     {
         name: 'Freshers Day',
         date: 'Nov',
         img: 'images/Second.jpeg',
-        div_id: 'jubin'
+        // div_id: 'jubin'
     },
     {
         name: 'Christmas 2025',
         date: 'Dec',
         img: 'images/Third.jpeg',
-        div_id: 'amittrivedi'
+        // div_id: 'amittrivedi'
     }
 ]
 

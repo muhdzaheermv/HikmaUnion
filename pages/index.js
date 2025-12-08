@@ -179,7 +179,7 @@ export default function Home() {
           <Rajan />
           <Explore />
           <Proshow />
-          <Faq />
+          {/* <Faq /> */}
         </div>
       </main>
     </>

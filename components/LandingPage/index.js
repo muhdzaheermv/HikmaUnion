@@ -6,7 +6,7 @@ import { CustomEase } from "gsap/dist/CustomEase";
 import Hero from './hero';
 // import dancers from "@/public/images/dancers.png"
 import elephant from "@/public/images/elephant.png"
-// import femaledancer from "@/public/images/femaledancer.jpeg"
+import femaledancer from "@/public/images/femaledancer.png"
 // import ghoomar from "@/public/images/ghoomar.jpeg"
 import knight from "@/public/images/knight.png"
 // import main from "@/public/images/main.jpeg"
@@ -34,9 +34,9 @@ const getImages = () => {
         // { file: '/ashoka.png', prompt: 'Emperor Ashoka with a cape looks over a kingdom' },
         // { file: dancers, prompt: 'Aspire College of Advanced Studies' },
         { file: elephant, prompt: 'Aspire College of Advanced Studies' },
-        // { file: femaledancer, prompt: 'Aspire College of Advanced Studies  ' },
+        { file: femaledancer, prompt: 'Aspire College of Advanced Studies  ' },
         // { file: ghoomar, prompt: 'Aspire College of Advanced Studies ' },
-        // { file: knight, prompt: 'Aspire College of Advanced Studies' },
+        { file: knight, prompt: 'Aspire College of Advanced Studies' },
         // { file: main, prompt: 'Aspire College of Advanced Studies ' },
         { file: mountainman, prompt: ' Aspire College of Advanced Studies' },
         // { file: '/mountaindance.png', prompt: 'three indian traditional women dancing in a field' },

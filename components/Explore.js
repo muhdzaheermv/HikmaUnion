@@ -56,7 +56,7 @@ export default function Explore() {
         
         {
             title: "Proshow",
-            img: "/images/proshow.jpg",
+            img: "/images/proshow.png",
             // link: "/proshow",
         },
     ]

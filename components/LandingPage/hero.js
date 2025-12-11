@@ -131,8 +131,10 @@ export default function Hero({prompt}) {
             <Typewriter
                     onInit={(typewriter) => {
                         typewriter
-                            .pauseFor(7000)
-                            .typeString(`<span class="imagine">/imagine: </span>${prompt}`)
+                            .pauseFor(10)
+                            .typeString(`<span class="imagine">
+                                <img src="./images/plane.png" alt="Logo" style="width:24px; height:auto; vertical-align:middle;">
+                                </span>${prompt}`)
                             .start();
                     }}
                 />

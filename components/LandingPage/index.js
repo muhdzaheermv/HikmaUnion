@@ -34,7 +34,7 @@ const getImages = () => {
         // { file: '/ashoka.png', prompt: 'Emperor Ashoka with a cape looks over a kingdom' },
         // { file: dancers, prompt: 'Aspire College of Advanced Studies' },
         { file: elephant, prompt: 'Aspire College of Advanced Studies' },
-        { file: femaledancer, prompt: 'Aspire College of Advanced Studies  ' },
+        // { file: femaledancer, prompt: 'Aspire College of Advanced Studies  ' },
         // { file: ghoomar, prompt: 'Aspire College of Advanced Studies ' },
         { file: knight, prompt: 'Aspire College of Advanced Studies' },
         // { file: main, prompt: 'Aspire College of Advanced Studies ' },

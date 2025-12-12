@@ -15,7 +15,7 @@ const Menu = ({setShowMenu}) => {
     // { title: "Proshows", link: "/proshow" },
     // { title: "I-ink", link: "/ink" },
     // { title: "Prodezza", link: "/prodezza" },
-    { title: "Union Members", link: "/" },
+    { title: "Our Members", link: "/team" },
     // { title: "Sponsors", link: "/sponsors" },
 
     

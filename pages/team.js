@@ -10,8 +10,8 @@ import data from '@/public/team.json'
 
 export default function Team({data}) {
 
-    const [selected, setSelected] = useState('Council')
-    // const categories = [{name: 'Council'}, {name: 'Web Team'}]
+    const [selected, setSelected] = useState('Union')
+    // const categories = [{name: 'Union'}, {name: 'Web Team'}]
     let categories = []
 
     for(let i=0; i<data.length; i++)
@@ -22,7 +22,7 @@ export default function Team({data}) {
     return (
         <>
             <Head>
-                <title>Ragam 2023</title>
+                <title>Hikma 2025</title>
                 <meta name="description" content="Ragam 2023 | Team" />
                 <meta name="viewport" content="width=device-width, initial-scale=1" />
                 <link rel="icon" href="/favicon.ico" />

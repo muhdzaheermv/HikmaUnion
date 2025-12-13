@@ -22,13 +22,13 @@ export default function Team({data}) {
     return (
         <>
             <Head>
-                <title>Hikma 2025</title>
+                <title>Hikma members</title>
                 <meta name="description" content="Ragam 2023 | Team" />
                 <meta name="viewport" content="width=device-width, initial-scale=1" />
                 <link rel="icon" href="/favicon.ico" />
             </Head>
             {/* <Coming /> */}
-            <Heading title={"Team 2023"} image={"/images/theyyam team.png"} />
+            <Heading title={"Hikma Members"} image={"/images/team.jpg"} />
 
             <Filter categories={categories} selected={selected} select={setSelected} />
 

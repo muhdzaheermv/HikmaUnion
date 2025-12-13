@@ -24,7 +24,7 @@ export default function Explore() {
         {
             title: "Arts",
             img: "/images/prodezza.png",
-            // link: "/prodezza",
+            link: "/prodezza",
         },
         {
             title: "Sports",

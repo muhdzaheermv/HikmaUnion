@@ -5,25 +5,26 @@
             {
                 "label": "Executive Committee",
                 "members": [
-                    {"name": "ANAS T", "designation": "Chairman", "img": "/images/team/resized/CAS_Akhil "}, 
+                    {"name": "ANAS T", "designation": "Chairman", "img": "/images/team/resized/Chairman.jpeg "}, 
                     {"name": "Fidha Sherin", "designation": "Vice Chairperson", "img": "/images/team/resized/Chairperson.jpg"},
-                    {"name": "", "designation": "Joint Secretary ", "img": "/images/team/resized/"},
+                    {"name": "Hashim Mohammed U", "designation": "General Secretary", "img": "/images/team/resized/GeneralSecretary.jpeg"},
+                    {"name": "Fathima Rinu T", "designation": "Joint Secretary ", "img": "/images/team/resized/JointSecretary.jpeg"},
                     {"name": "", "designation": "Fine Arts Secretary ", "img": "/images/team/resized/"},
-                    {"name": "Muhammed Ajmal ck", "designation": "General Captain ", "img": "/images/team/resized/GeneralCaptain.jpeg"},
-                    {"name": "Magazine Editor", "designation": "Magazine Editor ", "img": "/images/team/resized/MagazineEditor.jpeg"},
+                    {"name": "Muhammed Ajmal C K", "designation": "General Captain ", "img": "/images/team/resized/GeneralCaptain.jpeg"},
+                    {"name": "Shahana sherin M ", "designation": "Magazine", "img": "/images/team/resized/MagazineEditor.jpeg"},
                     {"name": "Mohammad Mubashir T ", "designation": "UUC ", "img": "/images/team/resized/UUC.jpeg"},
-                    {"name": "", "designation": "First DC ", "img": "/images/team/resized/"},
-                    {"name": "", "designation": "Second DC ", "img": "/images/team/resized/SecondDC.jpg"},
+                    {"name": "Harikrishanan N P", "designation": "First DC ", "img": "/images/team/resized/FirstDC.jpeg"},
+                    {"name": "Hafsath", "designation": "Second DC ", "img": "/images/team/resized/SecondDC.jpg"},
                     {"name": "", "designation": "Third DC  ", "img": "/images/team/resized/"}
                 ]
             },
             {
                 "label": "Association Secretaries",
                 "members": [
+                    {"name": "Mohammed Adnan M V", "designation": "Computer Dept", "img": "/images/team/resized/Computer.jpeg"},
                     {"name": "", "designation": "Commerce ", "img": "/images/team/resized/"},
-                    {"name": "", "designation": "Computer ", "img": "/images/team/resized/Treasurer_Adwaidh "},
-                    {"name": "", "designation": "English ", "img": "/images/team/resized/"},
-                    {"name": "", "designation": "Psychology ", "img": "/images/team/resized/"},
+                    {"name": "Riya Sherin K", "designation": "English ", "img": "/images/team/resized/English.jpeg"},
+                    {"name": "Nishana Sherin K V", "designation": "Psychology ", "img": "/images/team/resized/Psychology.jpeg"},
                     {"name": "", "designation": "Economics ", "img": "/images/team/resized/"}
                 ]
             }

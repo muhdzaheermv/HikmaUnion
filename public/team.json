@@ -36,7 +36,7 @@
       {
         "label": "Administrative Authorities",
         "members": [
-          { "name": "Dr. Muhammed Fasil KP", "designation": "Principal", "img": "/images/team/resized/Principal.jpeg" },
+          { "name": "Dr. Muhammed Fasil KP", "designation": "Principal", "img": "/images/team/resized/principal.jpeg" },
           { "name": "Soumya P", "designation": "Vice Principal", "img": "/images/team/resized/VicePrincipal.jpeg" }
         ]
       },
@@ -44,7 +44,7 @@
         "label": "Head of the Department (HOD)",
         "members": [
           { "name": "Unnikrishnan K V", "designation": "Commerce & Management Studies", "img": "/images/team/resized/dcms.jpeg" },
-          { "name": "Sruthy", "designation": "Computer Application", "img": "/images/team/resized/DCA.jpg" },
+          { "name": "Sruthy", "designation": "Computer Application", "img": "/images/team/resized/dca.jpg" },
           { "name": "Nadiya", "designation": "English", "img": "/images/team/resized/" },
           { "name": "Saritha K", "designation": "Psychology", "img": "/images/team/resized/de.jpeg" },
           { "name": "Shamla", "designation": "Economics", "img": "/images/team/resized/dp.jpeg" }

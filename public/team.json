@@ -1,43 +1,111 @@
 [
-    {
-        "category": "Union",
-        "teams": [
-            {
-                "label": "Executive Committee",
-                "members": [
-                    {"name": "ANAS T", "designation": "Chairman", "img": "/images/team/resized/Chairman.jpeg "}, 
-                    {"name": "Fidha Sherin", "designation": "Vice Chairperson", "img": "/images/team/resized/Chairperson.jpg"},
-                    {"name": "Hashim Mohammed U", "designation": "General Secretary", "img": "/images/team/resized/GeneralSecretary.jpeg"},
-                    {"name": "Fathima Rinu T", "designation": "Joint Secretary ", "img": "/images/team/resized/JointSecretary.jpeg"},
-                    {"name": "", "designation": "Fine Arts Secretary ", "img": "/images/team/resized/"},
-                    {"name": "Muhammed Ajmal C K", "designation": "General Captain ", "img": "/images/team/resized/GeneralCaptain.jpeg"},
-                    {"name": "Shahana sherin M ", "designation": "Magazine", "img": "/images/team/resized/MagazineEditor.jpeg"},
-                    {"name": "Mohammad Mubashir T ", "designation": "UUC ", "img": "/images/team/resized/UUC.jpeg"},
-                    {"name": "Harikrishanan N P", "designation": "First DC ", "img": "/images/team/resized/FirstDC.jpeg"},
-                    {"name": "Hafsath", "designation": "Second DC ", "img": "/images/team/resized/SecondDC.jpg"},
-                    {"name": "", "designation": "Third DC  ", "img": "/images/team/resized/"}
-                ]
-            },
-            {
-                "label": "Association Secretaries",
-                "members": [
-                    {"name": "Mohammed Adnan M V", "designation": "Computer Dept", "img": "/images/team/resized/Computer.jpeg"},
-                    {"name": "", "designation": "Commerce ", "img": "/images/team/resized/"},
-                    {"name": "Riya Sherin K", "designation": "English ", "img": "/images/team/resized/English.jpeg"},
-                    {"name": "Nishana Sherin K V", "designation": "Psychology ", "img": "/images/team/resized/Psychology.jpeg"},
-                    {"name": "", "designation": "Economics ", "img": "/images/team/resized/"}
-                ]
-            }
+  {
+    "category": "Union",
+    "teams": [
+      {
+        "label": "Executive Committee",
+        "members": [
+          { "name": "ANAS T", "designation": "Chairman", "img": "/images/team/resized/Chairman.jpeg" },
+          { "name": "Fidha Sherin", "designation": "Vice Chairperson", "img": "/images/team/resized/Chairperson.jpg" },
+          { "name": "Hashim Mohammed U", "designation": "General Secretary", "img": "/images/team/resized/GeneralSecretary.jpeg" },
+          { "name": "Fathima Rinu T", "designation": "Joint Secretary", "img": "/images/team/resized/JointSecretary.jpeg" },
+          { "name": "MOHAMMED ANAS N", "designation": "Fine Arts Secretary", "img": "/images/team/resized/FineArts .jpeg" },
+          { "name": "Muhammed Ajmal C K", "designation": "General Captain", "img": "/images/team/resized/GeneralCaptain.jpeg" },
+          { "name": "Shahana Sherin M", "designation": "Magazine Editor", "img": "/images/team/resized/MagazineEditor.jpeg" },
+          { "name": "Mohammad Mubashir T", "designation": "UUC", "img": "/images/team/resized/UUC.jpeg" },
+          { "name": "Harikrishanan N P", "designation": "First DC", "img": "/images/team/resized/FirstDC.jpeg" },
+          { "name": "Hafsath", "designation": "Second DC", "img": "/images/team/resized/SecondDC.jpg" }
+
         ]
-    },
-   
-    {
-        "category": "Developer",
-        "teams": [{
-            "label": "Leads",
-            "members": [
-                {"name": "Muhammed Zaheer mv", "designation": "Lead Developer", "img": "/images/team/resized/zaheer.jpeg"}
-            ]
-        }]
-    }
+      },
+      {
+        "label": "Association Secretaries",
+        "members": [
+          { "name": "Mohammed Adnan M V", "designation": "Computer Department", "img": "/images/team/resized/Computer.jpeg" },
+          { "name": "Riya Sherin K", "designation": "English Department", "img": "/images/team/resized/English.jpeg" },
+          { "name": "Nishana Sherin K V", "designation": "Psychology Department", "img": "/images/team/resized/Psychology.jpeg" },
+          { "name": "Muhammed Anzil K", "designation": "Commerce Department", "img": "/images/team/resized/commercerep.jpeg" }
+        ]
+      }
+    ]
+  },
+
+  {
+    "category": "Academic",
+    "teams": [
+      {
+        "label": "Administrative Authorities",
+        "members": [
+          { "name": "Dr. Muhammed Fasil KP", "designation": "Principal", "img": "/images/team/resized/Principal.jpeg" },
+          { "name": "Soumya P", "designation": "Vice Principal", "img": "/images/team/resized/VicePrincipal.jpeg" }
+        ]
+      },
+      {
+        "label": "Head of the Department (HOD)",
+        "members": [
+          { "name": "Unnikrishnan K V", "designation": "Commerce & Management Studies", "img": "/images/team/resized/dcms.jpeg" },
+          { "name": "Sruthy", "designation": "Computer Application", "img": "/images/team/resized/DCA.jpg" },
+          { "name": "Nadiya", "designation": "English", "img": "/images/team/resized/" },
+          { "name": "Saritha K", "designation": "Psychology", "img": "/images/team/resized/" },
+          { "name": "Shamla", "designation": "Economics", "img": "/images/team/resized/dp.jpeg" }
+        ]
+      },
+      {
+        "label": "Service Units",
+        "members": [
+          { "name": "Mubaris", "designation": "National Service Scheme (NSS)", "img": "/images/team/resized/" }
+        ]
+      },
+      {
+        "label": "Clubs & Co-Curricular Activities",
+        "members": [
+          { "name": "Anjana", "designation": "Sports Club", "img": "/images/team/resized/sports.png" },
+          { "name": "Ramya V T", "designation": "Arts Club", "img": "/images/team/resized/" },
+          { "name": "Athulya Rajan", "designation": "Library", "img": "/images/team/resized/" },
+          { "name": "Sruthy M", "designation": "Media Club", "img": "/images/team/resized/dca.jpg" },
+          { "name": "Rajesh", "designation": "Language Club", "img": "/images/team/resized/" },
+          { "name": "Manju", "designation": "Nature Club", "img": "/images/team/resized/" },
+          { "name": "Mini", "designation": "ED Club", "img": "/images/team/resized/" },
+          { "name": "", "designation": "Soft Skill & Personality Development Cell", "img": "/images/team/resized/" }
+        ]
+      },
+      {
+        "label": "Student Support Cells",
+        "members": [
+          { "name": "", "designation": "Grievance Redressal Cell (GRC)", "img": "/images/team/resized/" },
+          { "name": "Savithri P S", "designation": "Internal Complaints Cell (ICC)", "img": "/images/team/resized/" },
+          { "name": "Soumya P", "designation": "Internal Examination Cell", "img": "/images/team/resized/VicePrincipal.jpeg" },
+          { "name": "", "designation": "Admission Cell", "img": "/images/team/resized/" },
+          { "name": "Nishi K", "designation": "Attendance Cell", "img": "/images/team/resized/" },
+          { "name": "", "designation": "Feedback Cell", "img": "/images/team/resized/" },
+          { "name": "Asna", "designation": "Placement Cell", "img": "/images/team/resized/" }
+        ]
+      },
+      {
+        "label": "Discipline & Welfare Cells",
+        "members": [
+          { "name": "", "designation": "Anti-Ragging Cell", "img": "/images/team/resized/" },
+          { "name": "Priyanka", "designation": "Anti-Narcotic Cell", "img": "/images/team/resized/" },
+          { "name": "", "designation": "Ethics & Discipline Cell", "img": "/images/team/resized/" },
+          { "name": "Unnikrishnan K", "designation": "SC/ST Development Cell", "img": "/images/team/resized/dcms.jpeg" },
+          { "name": "", "designation": "Gender Equality Cell", "img": "/images/team/resized/" },
+          { "name": "Nadiya", "designation": "Women Cell", "img": "/images/team/resized/" },
+          { "name": "Neethu Anjana", "designation": "Health & Wellness Cell", "img": "/images/team/resized/" },
+          { "name": "", "designation": "Social Welfare Cell", "img": "/images/team/resized/" }
+        ]
+      }
+    ]
+  },
+
+  {
+    "category": "Developer",
+    "teams": [
+      {
+        "label": "Website Administration",
+        "members": [
+          { "name": "Muhammed Zaheer MV", "designation": "Website Developer & IT Administrator", "img": "/images/team/resized/zaheer.jpeg" }
+        ]
+      }
+    ]
+  }
 ]

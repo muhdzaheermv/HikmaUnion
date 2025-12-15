@@ -33,8 +33,7 @@ const Footer = () => {
       { name: "Our Members", link: "/team" },
       // { name: "nss instagram", link: "/events?category=Ragnarok" },
       // { name: "Proshow", link: "/proshow" },
-      // // { name: "I-ink", link: "/ink" },
-      // { name: "Prodezza", link: "/prodezza" },
+   
     ],
   ];
   var i=0,j=0;

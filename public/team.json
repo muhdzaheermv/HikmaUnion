@@ -44,8 +44,8 @@
           { "name": "Unnikrishnan K V", "designation": "Commerce & Management Studies", "whatsapp": "9946155436", "img": "/images/team/resized/dcms.jpeg" },
           { "name": "Sruthy M", "designation": "Computer Application", "whatsapp": "9946995469", "img": "/images/team/resized/dca.jpg" },
           { "name": "Ramya V T", "designation": "English", "whatsapp": "8590135564", "img": "/images/team/resized/deng.jpeg" },
-          { "name": "Saritha K", "designation": "Psychology", "whatsapp": "8137820807", "img": "/images/team/resized/de.jpeg" },
-          { "name": "Shamla", "designation": "Economics", "whatsapp": "8137820807", "img": "/images/team/resized/dp.jpeg" }
+          { "name": "Saritha K", "designation": "Psychology", "whatsapp": "", "img": "/images/team/resized/de.jpeg" },
+          { "name": "Shamla", "designation": "Economics", "whatsapp": "", "img": "/images/team/resized/dp.jpeg" }
         ]
       },
       {
@@ -61,36 +61,36 @@
           { "name": "Ramya V T", "designation": "Arts Club", "whatsapp": "8590135564", "img": "/images/team/resized/deng.jpeg" },
           { "name": "Athulya Rajan", "designation": "Library", "whatsapp": "7034183227", "img": "/images/team/resized/library.jpeg" },
           { "name": "Sruthy M", "designation": "Media Club", "whatsapp": "9946995469", "img": "/images/team/resized/dca.jpg" },
-          { "name": "Rajesh", "designation": "Language Club", "whatsapp": "8137820807", "img": "/images/team/resized/noimage.png" },
-          { "name": "Manju", "designation": "Nature Club", "whatsapp": "8137820807", "img": "/images/team/resized/noimage.png" },
+          { "name": "Rajesh", "designation": "Language Club", "whatsapp": "", "img": "/images/team/resized/noimage.png" },
+          { "name": "Manju", "designation": "Nature Club", "whatsapp": "", "img": "/images/team/resized/noimage.png" },
           { "name": "Mini", "designation": "ED Club", "whatsapp": "9633225701", "img": "/images/team/resized/ed_club.jpeg" },
-          { "name": "Asna", "designation": "Soft Skill & Personality Development Cell", "whatsapp": "8137820807", "img": "/images/team/resized/noimage.png" }
+          { "name": "Asna", "designation": "Soft Skill & Personality Development Cell", "whatsapp": "", "img": "/images/team/resized/noimage.png" }
         ]
       },
       {
         "label": "Student Support Cells",
         "members": [
-          { "name": "Saranya", "designation": "Grievance Redressal Cell (GRC)", "whatsapp": "8137820807", "img": "/images/team/resized/noimage.png" },
+          { "name": "Saranya", "designation": "Grievance Redressal Cell (GRC)", "whatsapp": "", "img": "/images/team/resized/noimage.png" },
           { "name": "Savithri P S", "designation": "IQAC & Internal Complaints Cell (ICC)", "whatsapp": "9207834979", "img": "/images/team/resized/icc.jpeg" },
           { "name": "Soumya P", "designation": "Internal Examination Cell", "whatsapp": "9562247055", "img": "/images/team/resized/VicePrincipal.jpeg" },
-          { "name": "Divyan O", "designation": "Admission Cell", "whatsapp": "8137820807", "img": "/images/team/resized/noimage.png" },
-          { "name": "Nishi K", "designation": "Attendance Cell", "whatsapp": "8137820807", "img": "/images/team/resized/noimage.png" },
-          { "name": "Dhanya", "designation": "Feedback Cell", "whatsapp": "8137820807", "img": "/images/team/resized/noimage.png" },
-          { "name": "Asna", "designation": "Placement Cell", "whatsapp": "8137820807", "img": "/images/team/resized/noimage.png" },
+          { "name": "Divyan O", "designation": "Admission Cell", "whatsapp": "", "img": "/images/team/resized/noimage.png" },
+          { "name": "Nishi K", "designation": "Attendance Cell", "whatsapp": "", "img": "/images/team/resized/noimage.png" },
+          { "name": "Dhanya", "designation": "Feedback Cell", "whatsapp": "", "img": "/images/team/resized/noimage.png" },
+          { "name": "Asna", "designation": "Placement Cell", "whatsapp": "", "img": "/images/team/resized/noimage.png" },
           { "name": "Unnikrishnan K V", "designation": "Blood Doners Forum", "whatsapp": "9946155436", "img": "/images/team/resized/dcms.jpeg" }
         ]
       },
       {
         "label": "Discipline & Welfare Cells",
         "members": [
-          { "name": "Priyanka", "designation": "Anti-Ragging Cell", "whatsapp": "8137820807", "img": "/images/team/resized/noimage.png" },
-          { "name": "Saritha", "designation": "Anti-Narcotic Cell", "whatsapp": "8137820807", "img": "/images/team/resized/noimage.png" },
-          { "name": "Rajesh AV", "designation": "Ethics & Discipline Cell", "whatsapp": "8137820807", "img": "/images/team/resized/noimage.png" },
+          { "name": "Priyanka", "designation": "Anti-Ragging Cell", "whatsapp": "", "img": "/images/team/resized/noimage.png" },
+          { "name": "Saritha", "designation": "Anti-Narcotic Cell", "whatsapp": "", "img": "/images/team/resized/noimage.png" },
+          { "name": "Rajesh AV", "designation": "Ethics & Discipline Cell", "whatsapp": "", "img": "/images/team/resized/noimage.png" },
           { "name": "Unnikrishnan K", "designation": "SC/ST Development Cell", "whatsapp": "9946155436", "img": "/images/team/resized/dcms.jpeg" },
-          { "name": "Ranjitha", "designation": "Gender Equality Cell", "whatsapp": "8137820807", "img": "/images/team/resized/gec.jpeg" },
-          { "name": "Nadiya", "designation": "Women Cell", "whatsapp": "8137820807", "img": "/images/team/resized/noimage.png" },
-          { "name": "Neethu", "designation": "Health & Wellness Cell", "whatsapp": "8137820807", "img": "/images/team/resized/noimage.png" },
-          { "name": "Shamla", "designation": "Social Welfare Cell", "whatsapp": "8137820807", "img": "/images/team/resized/noimage.png" }
+          { "name": "Ranjitha", "designation": "Gender Equality Cell", "whatsapp": "", "img": "/images/team/resized/gec.jpeg" },
+          { "name": "Nadiya", "designation": "Women Cell", "whatsapp": "", "img": "/images/team/resized/noimage.png" },
+          { "name": "Neethu", "designation": "Health & Wellness Cell", "whatsapp": "", "img": "/images/team/resized/noimage.png" },
+          { "name": "Shamla", "designation": "Social Welfare Cell", "whatsapp": "", "img": "/images/team/resized/noimage.png" }
         ]
       }
     ]

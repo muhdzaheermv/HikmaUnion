@@ -32,26 +32,22 @@ export default function Explore() {
             link: "/sports",
         },
         {
+            title: "ED Club",
+            img: "/images/ed_club.png",
+            link: "/ed_club",
+        },
+        {
             title: "Events",
             img: "/images/events.png",
             link: "/events",
         },
-        // {
-        //     title: "Workshops",
-        //     img: "/images/workshop.png",
-        //     link: "/workshops",
-        // },
+        
         {
             title: "NSS",
             img: "/images/nss.png",
             link: "/nss",
             
         },
-        // {
-        //     title: "I-ink",
-        //     img: "/images/iink.jpg",
-        //     link: "/ink",
-        // },
         
         
         {

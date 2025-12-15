@@ -20,7 +20,7 @@ const Footer = () => {
   const links = [
     [
       { name: "Home", link: "/" },
-      { name: "Arts", link: "/prodezza" },
+      { name: "Arts", link: "/arts" },
       { name: "Sports", link: "/sports" },
       // { name: "Sponsors", link: "/sponsors" },
     ],
@@ -29,8 +29,8 @@ const Footer = () => {
       { name: "Events", link: "/events" },
     ],
     [
-      { name: "NSS", link: "/ink" },
-      { name: "Members", link: "/team" },
+      { name: "NSS", link: "/nss" },
+      { name: "Our Members", link: "/team" },
       // { name: "nss instagram", link: "/events?category=Ragnarok" },
       // { name: "Proshow", link: "/proshow" },
       // // { name: "I-ink", link: "/ink" },

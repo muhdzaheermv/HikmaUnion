@@ -44,7 +44,7 @@ export default function Explore() {
         {
             title: "NSS",
             img: "/images/nss.png",
-            link: "/ink",
+            link: "/nss",
             
         },
         // {

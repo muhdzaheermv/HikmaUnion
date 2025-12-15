@@ -37,7 +37,7 @@ const eventsPage = () => {
         <>
             <Head>
                 <title>Hikma ED</title>
-                <meta name="description" content="Ragam 2023 | Proshow" />
+                <meta name="description" content="Hikma 2025 | ED Club" />
                 <meta name="viewport" content="width=device-width, initial-scale=1" />
                 <link rel="icon" href="/favicon.ico" />
             </Head>

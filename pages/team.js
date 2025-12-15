@@ -23,7 +23,7 @@ export default function Team({data}) {
         <>
             <Head>
                 <title>Hikma members</title>
-                <meta name="description" content="Ragam 2023 | Team" />
+                <meta name="description" content="Hikma 2025 | Team" />
                 <meta name="viewport" content="width=device-width, initial-scale=1" />
                 <link rel="icon" href="/favicon.ico" />
             </Head>

@@ -78,7 +78,7 @@ const Events = () => {
     <>
       <Heading title={"Events 2023"} image={"/images/femaledancer.jpeg"} />
       <div className="done">
-        <h2>Done and dusted. Now a part of the Ragam lore.</h2>
+        <h2>Hikma.</h2>
       </div>
       <Filter categories={categories} selected={selected} select={setSelected} />
       <EventList list={ selected==="All" ? allEvents : allEvents.filter(x => x.category === selected)} />

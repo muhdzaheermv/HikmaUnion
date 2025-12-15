@@ -4,12 +4,17 @@ import React, { useEffect, useLayoutEffect, useRef, useState } from 'react'
 import { gsap, Expo, Power2, Power4, Power1, Power3, Power0, Linear } from "gsap";
 import { CustomEase } from "gsap/dist/CustomEase";
 import Hero from './hero';
-
+// import dancers from "@/public/images/dancers.png"
 import elephant from "@/public/images/elephant.png"
-
-// import knight from "@/public/images/knight.png"
-
+import femaledancer from "@/public/images/femaledancer.png"
+// import ghoomar from "@/public/images/ghoomar.jpeg"
+import knight from "@/public/images/knight.png"
+// import main from "@/public/images/main.jpeg"
 import mountainman from "@/public/images/mountainman.png"
+// import theyyam_1 from "@/public/images/theyyam 1.jpeg"
+// import theyyam_2 from "@/public/images/theyyam 2.png"
+// import theyyam_3 from "@/public/images//theyyam 3.jpeg"
+import theyyam_4 from "@/public/images/theyyam 4.jpg"
 
 function convertRemToPixels(rem) {
     return rem * parseFloat(getComputedStyle(document.documentElement).fontSize);
@@ -26,13 +31,19 @@ const getImages = () => {
     let time = Math.floor(Date.now()/10000);
 
     let imagefiles = [
-       
+        // { file: '/ashoka.png', prompt: 'Emperor Ashoka with a cape looks over a kingdom' },
+        // { file: dancers, prompt: 'Aspire College of Advanced Studies' },
         { file: elephant, prompt: 'Aspire College of Advanced Studies' },
-       
-      
-        // { file: knight, prompt: 'Aspire College of Advanced Studies' },
+        // { file: femaledancer, prompt: 'Aspire College of Advanced Studies  ' },
+        // { file: ghoomar, prompt: 'Aspire College of Advanced Studies ' },
+        { file: knight, prompt: 'Aspire College of Advanced Studies' },
+        // { file: main, prompt: 'Aspire College of Advanced Studies ' },
         { file: mountainman, prompt: ' Aspire College of Advanced Studies' },
-       
+        // { file: '/mountaindance.png', prompt: 'three indian traditional women dancing in a field' },
+        // { file: theyyam_1, prompt: 'Aspire College of Advanced Studies ' },
+        // { file: theyyam_2, prompt: 'Aspire College of Advanced Studies ' },
+        // { file: theyyam_3, prompt: 'Aspire College of Advanced Studies' },
+        // { file: theyyam_4, prompt: 'Aspire College of Advanced Studies ' },
     ]
     imagefiles = imagefiles
         .map((value,idx) => ({ value, sort: random(time + idx) }))

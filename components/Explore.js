@@ -50,11 +50,11 @@ export default function Explore() {
         },
         
         
-        {
-            title: "Programs",
-            img: "/images/proshow.png",
-            link: "/programs",
-        },
+        // {
+        //     title: "Programs",
+        //     img: "/images/proshow.png",
+        //     link: "/programs",
+        // },
     ]
 
     useEffect(() => {

@@ -4,17 +4,17 @@ import ProshowCard from './proshowCard'
 
 const artists = [
     {
-        name: 'Victory Day',
-        date: 'Oct',
-        img: 'images/First.jpeg',
-        // div_id: 'neetimohan',
-        link: '/events'
+        name: 'SPORTS DAY 3',
+        date: 'Nov',    
+        img: 'images/throwball.PNG',
+        // div_id: 'jubin',
+        link: '/sports'
     },
     {
-        name: 'Sports Meet',
-        date: 'Nov',
-        img: 'images/sports_meet.PNG',
-        // div_id: 'jubin',
+        name: 'SPORTS DAY 2',
+        date: 'Oct',
+         img: 'images/volleyball.PNG',
+        // div_id: 'neetimohan',
         link: '/sports'
     },
     {

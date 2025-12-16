@@ -178,7 +178,7 @@ export default function Home() {
           <MiscComponent />
           <Rajan />
           <Explore />
-          <Proshow />
+          {/* <Proshow /> */}
           {/* <Faq /> */}
         </div>
       </main>

@@ -25,11 +25,11 @@ const Footer = () => {
       // { name: "Sponsors", link: "/sponsors" },
     ],
     [
-      { name: "Programs", link: "/programs" },
+      // { name: "Programs", link: "/programs" },
       { name: "Events", link: "/events" },
+      { name: "ED Club", link: "/ed_club" },
     ],
     [
-      { name: "ED Club", link: "/ed_club" },
       { name: "NSS", link: "/nss" },
       { name: "Our Members", link: "/team" },
       // { name: "nss instagram", link: "/events?category=Ragnarok" },

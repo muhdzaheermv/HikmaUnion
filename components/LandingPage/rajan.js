@@ -16,8 +16,8 @@ export default function Rajan(){
                         <span className={styles.burn}>E</span> */}
                     &nbsp;Empowerment through <span className={styles.text2}>Knowledge</span>
                     </h6>
-                    <a href="https://www.aspirecollege.in/" target="_blank" className={styles.link} rel="noreferrer noopener">
-                        Learn more about our college
+                    <a href="https://heyzine.com/flip-book/0708570154.html" target="_blank" className={styles.link} rel="noreferrer noopener">
+                        See Mithra Union Magazine 2025
                         {/* <span> */}
                         <svg viewBox="0 0 92 88" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path d="M87.332 5L5.33203 12M87.332 5L81.332 77M87.332 5L3.33203 85" stroke="#ebe6d080" stroke-width="8"/>

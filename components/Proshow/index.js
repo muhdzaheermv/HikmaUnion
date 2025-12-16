@@ -11,16 +11,16 @@ const artists = [
         link: '/events'
     },
     {
-        name: 'Freshers Day',
+        name: 'Sports Meet',
         date: 'Nov',
-        img: 'images/Second.jpeg',
+        img: 'images/sports_meet.png',
         // div_id: 'jubin',
         link: '/programs'
     },
     {
-        name: 'Christmas 2025',
-        date: 'Dec',
-        img: 'images/Third.jpeg',
+        name: 'Coming soon',
+        date: 'Jan',
+        img: 'images/hikma_arts.png',
         // div_id: 'amittrivedi',
         link: '/programs'
     }

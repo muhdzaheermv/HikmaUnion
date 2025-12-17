@@ -15,7 +15,7 @@ const artists = [
         name: 'ASPIRO Sports Meet 25 – Day 2 Volleyball',
         date: '16 December 2025',
         day: 'Tuesday',
-        img: '/images/sports_meet.png',
+        img: '/images/sports_meetday.png',
         // id: "dabzee",
         content: 'Feel the thrill at ASPIRO Sports Meet 25! Day 2 brings an action-packed Volleyball Tournament on 16 Dec, 2:00 PM at Aspire College Court. Elevate the game and honor the spirit of sport!'
     },

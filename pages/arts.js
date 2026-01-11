@@ -2,15 +2,42 @@ import ProshowPageCard from '@/components/Proshow/proshowPageCard'
 import styles from '@/styles/ProdezzaPage.module.css'
 import Head from 'next/head'
 
-const artists = [
+const artists = [ 
   {
     id: 'group-1',
-    name: 'Group 1',
+    name: 'Group A',
     date: 'Click to Register',
-    img: '/images/group_1.png',
-    link: 'https://forms.gle/a8qAFh89Z4BPQEEB7',
+    img: '/images/group_a.png',
+    link: 'https://forms.gle/WxLfgWCu5wcKPE6F9',
     content:
-      'Group 1 Arts registration is open. This registration is for students participating in Group 1 arts events. The registration period is valid until 13 January 2025.',
+      'Group A Arts registration is open. This registration is for students participating in Group A arts events.',
+  },
+  {
+    id: 'group-2',
+    name: 'Group B',
+    date: 'Click to Register',
+    img: '/images/group_b.png',
+    link: 'https://forms.gle/uYjD5KKvAjyoAWzw6',
+    content:
+      'Group B Arts registration is open. This registration is for students participating in Group B arts events.',
+  },
+  {
+    id: 'group-3',
+    name: 'Group C',
+    date: 'Click to Register',
+    img: '/images/group_c.png',
+    link: 'https://forms.gle/gp2Fqcaf1A7StjQ99',
+    content:
+      'Group C Arts registration is open. This registration is for students participating in Group C arts events.',
+  },
+  {
+    id: 'group-4',
+    name: 'Group D',
+    date: 'Click to Register',
+    img: '/images/group_d.png',
+    link: 'https://forms.gle/ea11hHyYTkjxtac28',
+    content:
+      'Group D Arts registration is open. This registration is for students participating in Group D arts events.',
   },
 ]
 

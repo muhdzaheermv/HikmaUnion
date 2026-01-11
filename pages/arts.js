@@ -1,19 +1,16 @@
 import ProshowPageCard from '@/components/Proshow/proshowPageCard'
 import styles from '@/styles/ProdezzaPage.module.css'
 import Head from 'next/head'
-import Link from 'next/link'
 
 const artists = [
     {
-        name: 'Group 1',
-        date: 'Click to Register',
+        name: 'Hikma Arts',
+        date: 'January 2026',
         // day: '',
-        img: '/images/group_1.png',
-        // id: "dabzee",
-        link: 'https://forms.gle/a8qAFh89Z4BPQEEB7',
-        content: 'Group 1 Arts registration is open. This registration is for students participating in Group 1 arts events. The registration period is valid until 13 January 2025.'
+        img: '/images/hikma_arts.png',
+        id: "dabzee",
+        content: 'Aspire College Hikma Union proudly presents Arts January 2026, a vibrant celebration of talent, culture, and creativity. Join us for inspiring performances, colorful competitions, and unforgettable moments that bring art to life Fun'
     },
-
   
 
 ]
@@ -36,10 +33,7 @@ export default function Prodezza({ }) {
                     {
                         artists.map((artist, i) => {
                             return (
-                                <a key={artist.id} href={artist.link} target="_blank" style={{ textDecoration: 'none' }}> 
-
                                 <ProshowPageCard name={artist.name} id={artist.id} key={i} date={artist.date} day={artist.day} content={artist.content} image={artist.img} rev={i % 2 != 0 ? true : false} />
-                    </a>
                             )
                         })
                     }

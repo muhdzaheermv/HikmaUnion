@@ -4,23 +4,23 @@ import ProshowCard from './proshowCard'
 
 const artists = [
     {
-        name: 'SPORTS DAY 3',
-        date: '16 Dec',    
+        name: 'SPORTS',
+        date: 'Jan',    
         img: 'images/throwball.png',
         // div_id: 'jubin',
         link: '/sports'
     },
     {
-        name: 'SPORTS DAY 2',
-        date: '15 Dec',
-        img: 'images/volleyball.png',
+        name: 'Arts Off stage',
+        date: 'Jan 15-16',
+        img: 'images/offstage.png',
         // div_id: 'neetimohan',
-        link: '/sports'
+        link: '/arts'
     },
     {
-        name: 'Coming soon',
-        date: 'Jan',
-        img: 'images/hikma_arts.png',
+        name: 'Arts On Stage',
+        date: 'Coming soon',
+        img: 'images/onstage.png',
         // div_id: 'amittrivedi',
         link: '/arts'
     }

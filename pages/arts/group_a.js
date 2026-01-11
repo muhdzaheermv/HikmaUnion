@@ -5,15 +5,23 @@ import Link from 'next/link'
 
 const artists = [
     {
-        name: 'Group 1',
+        name: 'Arts Registration',
         date: 'Click to Register',
         // day: '',
-        img: '/images/group_1.png',
+        img: '/images/hikma_arts.png',
         // id: "dabzee",
         link: 'https://forms.gle/a8qAFh89Z4BPQEEB7',
-        content: 'Group 1 Arts registration is open. This registration is for students participating in Group 1 arts events. The registration period is valid until 13 January 2025.'
+        content: 'Aspire College Hikma Union proudly presents Arts January 2026, a vibrant celebration of talent, culture, and creativity.Register now to take part in inspiring performances, exciting competitions, and unforgettable artistic moments.'
     },
-
+    {
+        name: 'Participants List',
+        date: 'Click to Register',
+        // day: '',
+        img: '/images/hikma_arts.png',
+        // id: "dabzee",
+        link: 'https://forms.gle/a8qAFh89Z4BPQEEB7',
+        content: 'Aspire College Hikma Union proudly presents Arts January 2026, a vibrant celebration of talent, culture, and creativity.Register now to take part in inspiring performances, exciting competitions, and unforgettable artistic moments.'
+    },
   
 
 ]

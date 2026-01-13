@@ -4,6 +4,43 @@ import Head from 'next/head'
 
 const artists = [
     {
+    id: 'group-1',
+    name: 'Group A',
+    date: 'Click to Register',
+    img: '/images/sport_a.png',
+    link: 'https://forms.gle/UUVvEnKydgAmnMdE9',
+    content:
+      'Group A Sports registration is open. This registration is for students participating in Group A Sports events.',
+  },
+  
+  {
+    id: 'group-3',
+    name: 'Group B',
+    date: 'Click to Register',
+    img: '/images/sport_b.png',
+    link: 'https://forms.gle/jnJTqbC7x1rHecpq8',
+    content:
+      'Group B Sports registration is open. This registration is for students participating in Group B Sports events.',
+  },
+  {
+    id: 'group-4',
+    name: 'Group C',
+    date: 'Click to Register',
+    img: '/images/sport_c.png',
+    link: 'https://forms.gle/b1fBJ1ADyC8Sqfq88',
+    content:
+      'Group C Sports registration is open. This registration is for students participating in Group C Sports events.',
+  },
+  {
+    id: 'group-4',
+    name: 'Group D',
+    date: 'Click to Register',
+    img: '/images/sport_d.png',
+    link: 'https://forms.gle/2GZiPfs1rigRFAoH6',
+    content:
+      'Group D Sports registration is open. This registration is for students participating in Group D Sports events.',
+  },
+    {
         name: 'ASPIRO Sports Meet 25 – Day 3 Throwball',
         date: '17 December 2025',
         day: 'Tuesday',
@@ -47,30 +84,45 @@ const artists = [
 
 ]
 
-export default function Prodezza({ }) {
-    return (
-        <>
-            <Head>
-                <title>Hikma Sports</title>
-                <meta name="description" content="" />
-                <meta name="viewport" content="width=device-width, initial-scale=1" />
-                <link rel="icon" href="/favicon.ico" />
-            </Head>
-            <div className={styles.container}>
-                <div className={styles.banner}>
-                    <h2 className={styles.title}>Hikma<br />Sports</h2>
-                </div>
+export default function Prodezza() {
+  return (
+    <>
+      <Head>
+        <title>Hikma Arts</title>
+        <meta name="description" content="" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link rel="icon" href="/favicon.ico" />
+      </Head>
 
-                <div className={styles['cards-container']}>
-                    {
-                        artists.map((artist, i) => {
-                            return (
-                                <ProshowPageCard name={artist.name} id={artist.id} key={i} date={artist.date} day={artist.day} content={artist.content} image={artist.img} rev={i % 2 != 0 ? true : false} />
-                            )
-                        })
-                    }
-                </div>
-            </div>
-        </>
-    )
+      <div className={styles.container}>
+        <div className={styles.banner}>
+          <h2 className={styles.title}>
+            Hikma <br /> Arts
+          </h2>
+        </div>
+
+        <div className={styles['cards-container']}>
+          {artists.map((artist, i) => (
+            <a
+              key={artist.id}
+              href={artist.link}
+              target="_blank"
+              rel="noopener noreferrer"
+              style={{ textDecoration: 'none' }}
+            >
+              <ProshowPageCard
+                name={artist.name}
+                id={artist.id}
+                date={artist.date}
+                day={artist.day}
+                content={artist.content}
+                image={artist.img}
+                rev={i % 2 !== 0}
+              />
+            </a>
+          ))}
+        </div>
+      </div>
+    </>
+  )
 }

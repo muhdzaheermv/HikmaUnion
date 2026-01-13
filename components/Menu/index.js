@@ -10,7 +10,7 @@ const Menu = ({setShowMenu}) => {
     { title: "Home", link: "/" },
     { title: "Arts", link: "/arts" },
     // { title: "Arts", link: "/arts" },
-    // { title: "Sports", link: "/sports" },
+    { title: "Sports", link: "/sports" },
     { title: "Our Members", link: "/team" },
     // { title: "Events", link: "/events" },
     // { title: "Proshows", link: "/proshow" },

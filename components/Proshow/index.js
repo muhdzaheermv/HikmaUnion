@@ -15,7 +15,7 @@ const artists = [
         date: 'Jan 15-16',
         img: 'images/offstage.png',
         // div_id: 'neetimohan',
-        link: '/arts'
+        link: '/off_arts'
     },
     {
         name: 'Arts On Stage',

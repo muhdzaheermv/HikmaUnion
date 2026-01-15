@@ -8,7 +8,8 @@ const Menu = ({setShowMenu}) => {
   const router = useRouter()
   const lists = [
     { title: "Home", link: "/" },
-    { title: "Arts", link: "/arts" },
+    { title: "On Stage Arts", link: "/arts" },
+    { title: "Off Stage Arts", link: "/off_arts" },
     // { title: "Arts", link: "/arts" },
     { title: "Sports", link: "/sports" },
     { title: "Our Members", link: "/team" },

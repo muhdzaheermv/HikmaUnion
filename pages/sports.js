@@ -8,7 +8,7 @@ const artists = [
     name: 'Group A',
     date: 'Click to Register',
     img: '/images/sport_a.png',
-    link: 'https://forms.gle/UUVvEnKydgAmnMdE9',
+    link: '#',
     content:
       'Group A Sports registration is open. This registration is for students participating in Group A Sports events.',
   },
@@ -18,7 +18,7 @@ const artists = [
     name: 'Group B',
     date: 'Click to Register',
     img: '/images/sport_b.png',
-    link: 'https://forms.gle/jnJTqbC7x1rHecpq8',
+    link: '#',
     content:
       'Group B Sports registration is open. This registration is for students participating in Group B Sports events.',
   },
@@ -27,7 +27,7 @@ const artists = [
     name: 'Group C',
     date: 'Click to Register',
     img: '/images/sport_c.png',
-    link: 'https://forms.gle/b1fBJ1ADyC8Sqfq88',
+    link: '#',
     content:
       'Group C Sports registration is open. This registration is for students participating in Group C Sports events.',
   },
@@ -36,7 +36,7 @@ const artists = [
     name: 'Group D',
     date: 'Click to Register',
     img: '/images/sport_d.png',
-    link: 'https://forms.gle/2GZiPfs1rigRFAoH6',
+    link: '#',
     content:
       'Group D Sports registration is open. This registration is for students participating in Group D Sports events.',
   },

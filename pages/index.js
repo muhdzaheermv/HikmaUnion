@@ -9,6 +9,7 @@ import Proshow from '@/components/Proshow'
 import gsap, { Back, Bounce, Elastic, Linear, Power2, Power4 } from 'gsap'
 import { useEffect, useLayoutEffect, useRef, useState } from 'react'
 import Rajan from '@/components/LandingPage/rajan'
+import ScoreBoard from '@/components/LandingPage/scoreboard'
 import Transition from '@/components/Transition'
 import Loading from '@/components/Loading'
 
@@ -176,6 +177,7 @@ export default function Home() {
           <LandingPage />
           {/* <CategoryCard/> */}
           <MiscComponent />
+          <ScoreBoard />
           <Rajan />
           <Explore />
           <Proshow />

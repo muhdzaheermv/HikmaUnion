@@ -16,14 +16,14 @@ export default function Rajan() {
         { name: "100 M Race", scores: [0, 0, 0, 0] },
         { name: "200 M Race", scores: [0, 0, 0, 0] },
         { name: "800 M Race", scores: [0, 0, 0, 0] },
-        { name: "1500 M Race", scores: [0, 0, 0, 0] },
+        { name: "1500 M Race", scores: [5, 3, 0, 9] },
         { name: "Long Jump", scores: [0, 0, 0, 0] },
-        { name: "Shot Put", scores: [0, 0, 0, 0] },
-        { name: "Javelin Throw", scores: [0, 0, 0, 0] },
+        { name: "Shot Put", scores: [0, 1, 8, 0] },
+        { name: "Javelin Throw", scores: [3, 0, 9, 6] },
         { name: "Discus Throw", scores: [0, 0, 0, 0] }
     ]
 
-    const totals = [0, 0, 0, 0]
+    const totals = [8, 4, 17, 15]
 
     /* CLEAN TEXT STYLES (NO EFFECTS) */
 

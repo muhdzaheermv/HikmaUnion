@@ -18,8 +18,8 @@ export default function Rajan() {
         { name: "800 M Race", scores: [0, 0, 0, 0] },
         { name: "1500 M Race", scores: [5, 3, 0, 9] },
         { name: "Long Jump", scores: [6, 0, 8, 4] },
-        { name: "Shot Put", scores: [0, 1, 7, 5] },
-        { name: "Javelin Throw", scores: [3, 0, 9, 6] },
+        { name: "Shot Put", scores: [0, 4, 6, 6] },
+        { name: "Javelin Throw", scores: [3, 0, 6, 5] },
         { name: "Discus Throw", scores: [1, 1, 5, 11] }
     ]
 

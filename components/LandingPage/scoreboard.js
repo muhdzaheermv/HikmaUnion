@@ -17,13 +17,13 @@ export default function Rajan() {
         { name: "200 M Race", scores: [0, 0, 0, 0] },
         { name: "800 M Race", scores: [0, 0, 0, 0] },
         { name: "1500 M Race", scores: [5, 3, 0, 9] },
-        { name: "Long Jump", scores: [0, 0, 0, 0] },
-        { name: "Shot Put", scores: [0, 1, 8, 0] },
+        { name: "Long Jump", scores: [6, 0, 8, 4] },
+        { name: "Shot Put", scores: [0, 1, 7, 5] },
         { name: "Javelin Throw", scores: [3, 0, 9, 6] },
-        { name: "Discus Throw", scores: [0, 0, 0, 0] }
+        { name: "Discus Throw", scores: [1, 1, 5, 11] }
     ]
 
-    const totals = [8, 4, 17, 15]
+    const totals = [15, 8, 31, 35]
 
     /* CLEAN TEXT STYLES (NO EFFECTS) */
 

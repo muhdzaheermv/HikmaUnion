@@ -10,20 +10,46 @@ export default function Rajan() {
         return () => window.removeEventListener("resize", check)
     }, [])
 
-    const teams = ["Team A", "Team B", "Team C", "Team D"]
+    const teams = ["Mirabilis", "Grex", "Meraki", "Lucidus"]
 
-    const events = [
-        { name: "100 M Race", scores: [0, 0, 0, 0] },
-        { name: "200 M Race", scores: [0, 0, 0, 0] },
-        { name: "800 M Race", scores: [0, 0, 0, 0] },
-        { name: "1500 M Race", scores: [5, 3, 0, 9] },
-        { name: "Long Jump", scores: [6, 0, 8, 4] },
-        { name: "Shot Put", scores: [0, 4, 6, 6] },
-        { name: "Javelin Throw", scores: [3, 0, 6, 5] },
-        { name: "Discus Throw", scores: [1, 1, 5, 11] }
-    ]
+   const events = [
+  { name: "Carroms (Men)", scores: [0, 5, 3, 0] },
+  { name: "Carroms (Women)", scores: [0, 5, 3, 0] },
 
-    const totals = [15, 8, 31, 35]
+  { name: "Volleyball (Men)", scores: [0, 5, 0, 10] },
+
+  { name: "Handball (Women)", scores: [0, 5, 10, 0] },
+
+  { name: "Shot Put (Men)", scores: [0, 4, 0, 5] },
+  { name: "Shot Put (Women)", scores: [0, 1, 8, 0] },
+
+  { name: "Javelin Throw (Men)", scores: [0, 0, 3, 6] },
+  { name: "Javelin Throw (Women)", scores: [3, 0, 6, 0] },
+
+  { name: "Discus Throw (Men)", scores: [0, 1, 5, 3] },
+  { name: "Discus Throw (Women)", scores: [1, 0, 0, 8] },
+
+  { name: "Long Jump (Men)", scores: [0, 0, 5, 4] },
+  { name: "Long Jump (Women)", scores: [6, 0, 3, 0] },
+
+  { name: "100 M Race (Men)", scores: [5, 0, 4, 0] },
+  { name: "100 M Race (Women)", scores: [0, 1, 8, 0] },
+
+  { name: "200 M Race (Men)", scores: [0, 3, 0, 5] },
+  { name: "200 M Race (Women)", scores: [3, 0, 0, 6] },
+
+  { name: "800 M Race (Men)", scores: [0, 1, 8, 0] },
+  { name: "800 M Race (Women)", scores: [0, 5, 3, 1] },
+
+  { name: "1500 M Race (Men)", scores: [5, 3, 0, 0] },
+  { name: "1500 M Race (Women)", scores: [0, 0, 0, 9] },
+
+  { name: "4×100 M Relay (Men)", scores: [3, 0, 5, 10] },
+  { name: "4×100 M Relay (Women)", scores: [0, 3, 5, 10] }
+];
+
+
+    const totals = [27, 41, 79, 77]
 
     /* CLEAN TEXT STYLES (NO EFFECTS) */
 

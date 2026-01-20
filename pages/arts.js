@@ -8,7 +8,7 @@ const artists = [
     name: 'Group A',
     date: 'Click to Register',
     img: '/images/onstage_a.png',
-    link: 'https://forms.gle/YjpsbPhc2QMEwjQbA',
+    // link: 'https://forms.gle/YjpsbPhc2QMEwjQbA',
     content:
       'Group A Arts Onstage Registration Open. This registration is intended for students who will be participating in Group A onstage arts events.',
   },
@@ -17,7 +17,7 @@ const artists = [
     name: 'Group B',
     date: 'Click to Register',
     img: '/images/onstage_b.png',
-    link: 'https://forms.gle/K7YUp8zc2XXaV6fD8',
+    // link: 'https://forms.gle/K7YUp8zc2XXaV6fD8',
     content:
       'Group B Arts Onstage Registration Open. This registration is intended for students who will be participating in Group B onstage arts events.',
   },
@@ -26,7 +26,7 @@ const artists = [
     name: 'Group C',
     date: 'Click to Register',
     img: '/images/onstage_c.png',
-    link: 'https://forms.gle/7GYb62GuXsnw8tC6A',
+    // link: 'https://forms.gle/7GYb62GuXsnw8tC6A',
     content:
       'Group C Arts Onstage Registration Open. This registration is intended for students who will be participating in Group C onstage arts events.',
   },
@@ -35,7 +35,7 @@ const artists = [
     name: 'Group D',
     date: 'Click to Register',
     img: '/images/onstage_d.png',
-    link: 'https://forms.gle/jif4WJJgh4qifyLa7',
+    // link: 'https://forms.gle/jif4WJJgh4qifyLa7',
     content:
       'Group D Arts Onstage Registration Open. This registration is intended for students who will be participating in Group D onstage arts events.',
   },

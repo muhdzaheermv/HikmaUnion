@@ -41,7 +41,7 @@ export default function Rajan() {
   { name: "800 M Race (Men)", scores: [1, 0, 8, 0] },
   { name: "800 M Race (Women)", scores: [0, 5, 3, 1] },
 
-  { name: "1500 M Race (Men)", scores: [5, 3, 0, 9] },
+  { name: "1500 M Race (Men)", scores: [0, 0, 0, 9] },
   { name: "1500 M Race (Women)", scores: [5, 3, 0, 9] },
 
   { name: "4×100 M Relay (Men)", scores: [3, 0, 5, 10] },
